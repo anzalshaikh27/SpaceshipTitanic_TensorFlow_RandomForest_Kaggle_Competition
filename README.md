@@ -1,8 +1,8 @@
 # SpaceshipTitanic_TensorFlow_RandomForest
 
-This notebook walks you through how to train a baseline Random Forest model using TensorFlow Decision Forests on the Spaceship Titanic dataset made available for this competition.
+This notebook walks you through how to train a baseline Random Forest model using TensorFlow Decision Forests on the Spaceship Titanic dataset made available for Kaggle competition.
 
-Roughly, the code will look as follows:
+The code will look as follows:
 
 ```
 import tensorflow_decision_forests as tfdf
